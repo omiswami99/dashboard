@@ -74,8 +74,13 @@ a.content {
         margin-right: 00px;
     }
     .imge{
-        height: 100px;
-        width: 100px;
+        height: 250px;
+        width: 330px;
+    }
+
+    .imge1{
+        height: 280px;
+        width: 300px;
     }
 
     .card{
@@ -90,8 +95,8 @@ a.content {
         margin-right: 100px;
     }
     .imge{
-        height: 100px;
-        width: 100px;
+        height: 400px;
+        width: 500px;
     }
 
     .card{
@@ -105,13 +110,8 @@ a.content {
         font-weight: bold;
         margin-right: 400px;
     }
-    .imge{
-        height: 100px;
-        width: 100px;
-    }
-
+    
     .card{
         margin-left: 200px !important;
     }
 }
-
